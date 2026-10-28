@@ -1,47 +1,37 @@
-# Resolve Merge Conflicts
+<div align="center">
 
-_Learn why conflicts happen and how to resolve them._
+# 🎉 Congratulations Maxpatel231! 🎉
 
-## Welcome
+<img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
 
-Merge conflicts happen when two people make changes to the same file on GitHub—a common occurrence when you’re working with others. While resolving differences might involve some discussion, merge conflicts don’t have to be scary.
+### 🌟 You've successfully completed the exercise! 🌟
 
-- **Who is this for**: New developers, new Git and GitHub users
-- **What you'll learn**: We'll introduce the tools for inspecting and resolving a merge conflict.
-- **What you'll build**: You'll use a web editor to fix conflicting changes to Markdown file.
-- **Prerequisites**:
-  - Skills Exercise: [Introduction to GitHub](https://github.com/skills/introduction-to-github)
-- **How long**: less than 30 minutes
+## 🚀 Share Your Success!
 
-In this exercise, you will:
+**Show off your new skills and inspire others!**
 
-1. Learn the causes of a merge conflict.
-2. The tools for resolving a merge conflict.
-3. When and how to resolve a merge conflict.
+<a href="https://twitter.com/intent/tweet?text=I%20just%20completed%20a%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2FMaxpatel231%2Fskills-resolve-merge-conflicts%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20X-1da1f2?style=for-the-badge&logo=x&logoColor=white" alt="Share on X" />
+</a>
+<a href="https://bsky.app/intent/compose?text=I%20just%20completed%20a%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2FMaxpatel231%2Fskills-resolve-merge-conflicts%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20Bluesky-0085ff?style=for-the-badge&logo=bluesky&logoColor=white" alt="Share on Bluesky" />
+</a>
+<a href="https://www.linkedin.com/feed/?shareActive=true&text=I%20just%20completed%20a%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2FMaxpatel231%2Fskills-resolve-merge-conflicts%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Share on LinkedIn" />
+</a>
 
-### How to start this course
+### 🎯 What's Next?
 
-Simply copy the exercise to your account, then give your favorite Octocat (Mona) **about 20 seconds** to prepare the first lesson, then **refresh the page**.
+**Keep the momentum going!**
 
-[![](https://img.shields.io/badge/Copy%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/new?template_owner=skills&template_name=resolve-merge-conflicts&owner=%40me&name=skills-resolve-merge-conflicts&description=Exercise:+Resolve+Merge+Conflicts&visibility=public)
+[![](https://img.shields.io/badge/Return%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/Maxpatel231/skills-resolve-merge-conflicts/issues/1)
+[![GitHub Skills](https://img.shields.io/badge/Explore%20GitHub%20Skills-000000?style=for-the-badge&logo=github&logoColor=white)](https://learn.github.com/skills))
 
-<details>
-<summary>Having trouble? 🤷</summary><br/>
+*There's no better way to learn than building things!* 🚀
 
-When copying the exercise, we recommend the following settings:
-
-- For owner, choose your personal account or an organization to host the repository.
-
-- We recommend creating a public repository, since private repositories will use Actions minutes.
-
-If the exercise isn't ready in 20 seconds, please check the [Actions](../../actions) tab.
-
-- Check to see if a job is running. Sometimes it simply takes a bit longer.
-
-- If the page shows a failed job, please submit an issue. Nice, you found a bug! 🐛
-
-</details>
+</div>
 
 ---
 
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+
